@@ -56,7 +56,7 @@ function multiplyNumberic(obj) {
             obj[key] *= 2; 
         };
     };
-};
+}; 
 
 
 
